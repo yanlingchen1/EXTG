@@ -1,0 +1,65 @@
+#XSPEC version: 12.13.0
+#Build Date/Time: Fri Nov 25 23:06:07 2022
+#
+!XSPEC12> data none               # Clear any existing data
+#
+!XSPEC12> @../mdls/ideal-mdl_nH_1e20_z_005_suzakunorm_15e-4_mos1_A147_T_1.8.xcm # Load the XCM model file
+#
+!XSPEC12>method leven 10 0.01
+#
+!XSPEC12>abund aspl
+# Solar Abundance Vector set to aspl:  Asplund M., Grevesse N., Sauval A.J. & Scott P., ARAA, 47, 481 (2009)
+#
+!XSPEC12>xsect vern
+# Cross Section Table set to vern:  Verner, Ferland, Korista, and Yakovlev 1996
+#
+!XSPEC12>cosmo 70 0 0.73
+#
+!XSPEC12>xset delta 0.01
+#Parameter delta values for fits will now be 0.01 * parValue
+#
+!XSPEC12>systematic 0
+# Model systematic error set to 0
+#
+!XSPEC12>model  TBabs*apec  ;             0.01      0.001          0          0     100000      1e+06  ;              1.8       0.01      0.008      0.008         64         64  ;              0.3     -0.001          0          0          5          5  ;             0.05      -0.01     -0.999     -0.999         10         10  ;      0.000176292       0.01          0          0      1e+20      1e+24
+#Reading APEC data from 3.0.9
+#
+#
+#========================================================================
+#Model TBabs<1>*apec<2> Source No.: 1   Active/Off
+#Model Model Component  Parameter  Unit     Value
+# par  comp
+#   1    1   TBabs      nH         10^22    1.00000E-02  +/-  0.0          
+#   2    2   apec       kT         keV      1.80000      +/-  0.0          
+#   3    2   apec       Abundanc            0.300000     frozen
+#   4    2   apec       Redshift            5.00000E-02  frozen
+#   5    2   apec       norm                1.76292E-04  +/-  0.0          
+#________________________________________________________________________
+#
+#
+!XSPEC12>bayes off
+#
+!XSPEC12> fakeit none
+#
+#No background will be applied to fake spectrum #1
+#***Warning: Detected response matrix energy bin value = 0 (or neg).
+#     XSPEC will instead use small finite value (response file will not be altered).
+#
+#1 spectrum  in use
+# 
+#
+#Fit statistic  : Chi-Squared                     0.0     using 2400 bins.
+#
+#***Warning: Chi-square may not be valid due to bins with zero variance
+#            in spectrum number: 1
+#
+#Test statistic : Chi-Squared                     0.0     using 2400 bins.
+#
+#***Warning: Chi-square may not be valid due to bins with zero variance
+#            in spectrum number(s): 1 
+#
+# Null hypothesis probability of 1.0e+00 with 2397 degrees of freedom
+# Current data and model not fit yet.
+#
+!XSPEC12> log none
+#
