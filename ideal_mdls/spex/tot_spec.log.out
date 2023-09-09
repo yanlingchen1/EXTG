@@ -1,0 +1,2160 @@
+ You have defined    1 component.
+ You have defined    2 components.
+ Distances assuming H0 =  70.0 km/s/Mpc, Omega_m = 0.300 Omega_Lambda = 0.700 Omega_r = 0.000
+Sector       m      A.U.        ly        pc       kpc       Mpc  redshift        cz   age(yr)
+----------------------------------------------------------------------------------------------
+   1 6.859E+24 4.585E+13 7.250E+08 2.223E+08 2.223E+05  222.2889    0.0500   14989.6 6.738E+08
+----------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)    0.1000000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie    0.00000       0.00000       0.00000       0.00000
+
+--------------------------------------------------------------------------------
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)    0.2000000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   1.119962E-09  3.759076E-25  1.749655E+42  5.882881E+26
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used: ************
+ C-statistic       : ************
+ Expected C-stat   :       342.86 +/-        25.67
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)    0.3000000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   3.386224E-05  1.181174E-20  2.978553E+46  1.049650E+31
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used: 120018200.00
+ C-statistic       : 120018200.00
+ Expected C-stat   :       593.17 +/-        34.02
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)    0.4000000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   7.700900E-04  2.781014E-19  5.795286E+47  2.122741E+32
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  39951464.00
+ C-statistic       :  39951464.00
+ Expected C-stat   :       827.24 +/-        40.12
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)    0.5000000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   3.418051E-03  1.270622E-18  2.417134E+48  9.127350E+32
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  18443294.00
+ C-statistic       :  18443294.00
+ Expected C-stat   :      1041.66 +/-        45.00
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)    0.6000000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   8.495453E-03  3.238031E-18  5.873662E+48  2.271444E+33
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  10525915.00
+ C-statistic       :  10525915.00
+ Expected C-stat   :      1235.82 +/-        48.98
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)    0.7000000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   1.588091E-02  6.193546E-18  1.096630E+49  4.323385E+33
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:   6017800.00
+ C-statistic       :   6017800.00
+ Expected C-stat   :      1410.01 +/-        52.34
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)    0.8000000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   2.517675E-02  1.005067E-17  1.751917E+49  7.032503E+33
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:   2847069.50
+ C-statistic       :   2847069.50
+ Expected C-stat   :      1565.62 +/-        55.36
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)    0.9000000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   3.582270E-02  1.461329E-17  2.513276E+49  1.025551E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:   1760313.12
+ C-statistic       :   1760313.12
+ Expected C-stat   :      1705.56 +/-        57.60
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     1.000000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   4.751788E-02  1.979994E-17  3.344750E+49  1.388286E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:   4088568.00
+ C-statistic       :   4088568.00
+ Expected C-stat   :      1835.87 +/-        59.73
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     1.100000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   5.988414E-02  2.549096E-17  4.202297E+49  1.777016E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:   9890183.00
+ C-statistic       :   9890183.00
+ Expected C-stat   :      1953.64 +/-        61.59
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     1.200000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   7.260729E-02  3.156956E-17  5.054184E+49  2.180274E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  17590128.00
+ C-statistic       :  17590128.00
+ Expected C-stat   :      2059.63 +/-        63.13
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     1.300000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   8.527845E-02  3.784709E-17  5.872279E+49  2.585207E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  25216158.00
+ C-statistic       :  25216158.00
+ Expected C-stat   :      2153.46 +/-        64.49
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     1.400000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   9.770120E-02  4.422573E-17  6.648111E+49  2.986812E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  31572150.00
+ C-statistic       :  31572150.00
+ Expected C-stat   :      2235.76 +/-        65.73
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     1.500000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.109800      5.064646E-17  7.384006E+49  3.383682E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  36431324.00
+ C-statistic       :  36431324.00
+ Expected C-stat   :      2307.38 +/-        66.84
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     1.600000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.121655      5.713905E-17  8.090425E+49  3.779437E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  40037204.00
+ C-statistic       :  40037204.00
+ Expected C-stat   :      2370.63 +/-        67.85
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     1.700000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.133059      6.356643E-17  8.760361E+49  4.167455E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  42766220.00
+ C-statistic       :  42766220.00
+ Expected C-stat   :      2425.85 +/-        68.79
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     1.800000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.144140      6.997461E-17  9.404550E+49  4.551478E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  44905260.00
+ C-statistic       :  44905260.00
+ Expected C-stat   :      2476.88 +/-        69.71
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     1.900000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.154890      7.633679E-17  1.002508E+50  4.930830E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  46647388.00
+ C-statistic       :  46647388.00
+ Expected C-stat   :      2521.14 +/-        70.51
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     2.000000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.165346      8.265681E-17  1.062522E+50  5.306111E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  48129584.00
+ C-statistic       :  48129584.00
+ Expected C-stat   :      2561.81 +/-        71.21
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     2.100000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.175594      8.896571E-17  1.121161E+50  5.679667E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  49424252.00
+ C-statistic       :  49424252.00
+ Expected C-stat   :      2599.98 +/-        71.81
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     2.200000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.185506      9.518294E-17  1.177629E+50  6.046529E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  50592612.00
+ C-statistic       :  50592612.00
+ Expected C-stat   :      2636.24 +/-        72.31
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     2.300000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.195142      1.013299E-16  1.232357E+50  6.408260E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  51671876.00
+ C-statistic       :  51671876.00
+ Expected C-stat   :      2671.13 +/-        72.71
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     2.400000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.204536      1.074199E-16  1.285627E+50  6.765927E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  52679712.00
+ C-statistic       :  52679712.00
+ Expected C-stat   :      2704.98 +/-        73.05
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     2.500000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.213700      1.134417E-16  1.337538E+50  7.119026E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  53619776.00
+ C-statistic       :  53619776.00
+ Expected C-stat   :      2737.66 +/-        73.32
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     2.600000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.222658      1.194067E-16  1.388241E+50  7.468252E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  54513516.00
+ C-statistic       :  54513516.00
+ Expected C-stat   :      2769.21 +/-        73.57
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     2.700000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.231388      1.252910E-16  1.437608E+50  7.812222E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  55375312.00
+ C-statistic       :  55375312.00
+ Expected C-stat   :      2799.55 +/-        73.80
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     2.800000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.239929      1.311116E-16  1.485885E+50  8.152020E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  56202148.00
+ C-statistic       :  56202148.00
+ Expected C-stat   :      2828.58 +/-        74.02
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     2.900000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.248124      1.367730E-16  1.532125E+50  8.481861E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  57019732.00
+ C-statistic       :  57019732.00
+ Expected C-stat   :      2856.05 +/-        74.25
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
+--------------------------------------------------------------------------------------------------
+sect comp mod  acro parameter with unit     value      status    minimum   maximum lsec lcom lpar
+
+   1    1 cie  norm ne nX V (1E64/m**3)  2.0000000E+07 thawn     0.0      1.00E+20
+   1    1 cie  t    Temperature (keV)     3.000000     thawn    1.00E-05  1.00E+03
+   1    1 cie  sig  Sigma                 0.000000     frozen    0.0      1.00E+04
+   1    1 cie  sup  Sigma up              0.000000     frozen    0.0      1.00E+04
+   1    1 cie  logt T grid (lin/log)      1.000000     frozen    0.0       1.0
+   1    1 cie  hden Hyd dens (1E20/m**3) 9.9999998E-15 frozen   1.00E-22  1.00E+10
+   1    1 cie  it   Ion temp  (keV)       1.000000     frozen   1.00E-04  1.00E+07
+   1    1 cie  rt   T(balance) / T(spec)  1.000000     frozen   1.00E-04  1.00E+04
+   1    1 cie  vrms RMS Velocity (km/s)   0.000000     frozen    0.0      3.00E+05
+   1    1 cie  ref  Reference atom        1.000000     frozen    1.0       30.
+   1    1 cie  01   Abundance H           1.000000     frozen    0.0      1.00E+10
+   1    1 cie  02   Abundance He         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  03   Abundance Li         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  04   Abundance Be         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  05   Abundance B          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  06   Abundance C          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  07   Abundance N          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  08   Abundance O          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  09   Abundance F          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  10   Abundance Ne         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  11   Abundance Na         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  12   Abundance Mg         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  13   Abundance Al         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  14   Abundance Si         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  15   Abundance P          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  16   Abundance S          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  17   Abundance Cl         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  18   Abundance Ar         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  19   Abundance K          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  20   Abundance Ca         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  21   Abundance Sc         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  22   Abundance Ti         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  23   Abundance V          0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  24   Abundance Cr         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  25   Abundance Mn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  26   Abundance Fe         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  27   Abundance Co         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  28   Abundance Ni         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  29   Abundance Cu         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  30   Abundance Zn         0.3000000     frozen    0.0      1.00E+10
+   1    1 cie  file File electr.distrib.
+   1    1 cie  x1   T1/T0                 1.000000     frozen    1.0      1.00E+10
+   1    1 cie  y1   N1/N0                 0.000000     frozen    0.0      1.00E+10
+   1    1 cie  b    B field (Tesla)       0.000000     frozen    0.0      1.00E+05
+
+   1    2 reds z    Redshift             5.0000001E-02 frozen   -1.0      1.00E+10
+   1    2 reds flag Flag: cosmo=0, vel=1  0.000000     frozen    0.0       1.0
+
+
+Instrument     1 region    1 has norm    1.00000E+00 and is frozen
+
+--------------------------------------------------------------------------------
+ Fluxes and restframe luminosities between   2.0000     and    10.000     keV
+
+ sect comp mod   photon flux   energy flux nr of photons    luminosity
+              (phot/m**2/s)      (W/m**2)   (photons/s)           (W)
+    1    1 cie   0.256071      1.423247E-16  1.576919E+50  8.804808E+34
+
+--------------------------------------------------------------------------------
+ Fit method        : Classical Levenberg-Marquardt
+ Fit statistic     : C-statistic
+ Fit statistic used:  57815032.00
+ C-statistic       :  57815032.00
+ Expected C-stat   :      2881.99 +/-        74.48
+ Chi-squared value : 193232864.00
+ Degrees of freedom:         0
+ W-statistic       :         0.00
+
+ File tst.qdp does already exist; choose another filename or the overwrite/append option
