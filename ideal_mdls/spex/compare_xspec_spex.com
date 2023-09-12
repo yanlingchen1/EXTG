@@ -21,4 +21,3 @@ par show
 
 calc
 pl
-q
